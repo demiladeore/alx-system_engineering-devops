@@ -6,3 +6,5 @@
 4-listmorefiles: Display current directory contents, including hidden files (starting with .) in long format
 
 5-listfilesdigitonly: I love numbers 
+
+6-firstdirectory: Create a script that creates a directory named my_first_directory in the /tmp/ directory.
